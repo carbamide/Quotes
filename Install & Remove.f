@@ -1,0 +1,1 @@
+InstallScript := func(partFrame) partFrame.removeframe := (partFrame.theForm):?     NewtInstallScript(partFrame.theForm);     RemoveScript := func(partFrame) (partFrame.removeFrame):?     NewtRemoveScript(partFrame.removeFrame);
